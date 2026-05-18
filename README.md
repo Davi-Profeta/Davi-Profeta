@@ -49,7 +49,7 @@ Sempre aprendendo, testando novas ideias e melhorando a qualidade do código a c
     title="Git"
     width="30px" 
     style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/git.svg" 
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"
 />
 
 <br/>
