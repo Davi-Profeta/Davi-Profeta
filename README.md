@@ -59,6 +59,5 @@ Sempre aprendendo, testando novas ideias e melhorando a qualidade do código a c
 
 ### Stats
 
-[![GitHub Stats](https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=Davi-Profeta)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Estatísticas do GitHub](https://github-readme-stats.shion.dev/api?username=Davi-Profeta&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
