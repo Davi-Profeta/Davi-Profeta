@@ -61,3 +61,5 @@ Sempre aprendendo, testando novas ideias e melhorando a qualidade do código a c
 
 [![Estatísticas do GitHub](https://github-readme-stats.shion.dev/api?username=Davi-Profeta&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Minhas Linguagens](https://github-readme-stats.shion.dev/api/top-langs/?username=Davi-Profeta&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
