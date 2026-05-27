@@ -63,12 +63,12 @@ Sempre aprendendo, testando novas ideias e melhorando a qualidade do código a c
   <tr>
     <td valign="top" style="border: none;">
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.shion.dev/api?username=DaviProfeta&show_icons=true&theme=radical" alt="GitHub Stats" height="195" />
+        <img src="https://github-readme-stats.shion.dev/api?username=Davi-Profeta&show_icons=true&theme=radical" alt="GitHub Stats" height="195" />
       </a>
     </td>
     <td valign="top" style="border: none;">
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=DaviProfeta&layout=compact&theme=radical" alt="Minhas Linguagens" height="195" />
+        <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Davi-Profeta&layout=compact&theme=radical" alt="Minhas Linguagens" height="195" />
       </a>
     </td>
   </tr>
