@@ -55,4 +55,10 @@ Sempre aprendendo, testando novas ideias e melhorando a qualidade do código a c
 <br/>
 <br/>
 
+***
+
+###Stats
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiDaviProfeta=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 
