@@ -56,27 +56,9 @@ Sempre aprendendo, testando novas ideias e melhorando a qualidade do código a c
     title="Laragon" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laragon/laragon-original.svg" 
+    src="https://laragon.org/assets/img/laragon.png" 
 />
 
 <br/>
 <br/>
-
-***
-
-### Stats
-
-<table border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td valign="top" style="border: none;">
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.shion.dev/api?username=Davi-Profeta&show_icons=true&theme=radical" alt="GitHub Stats" height="195" />
-      </a>
-    </td>
-    <td valign="top" style="border: none;">
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Davi-Profeta&layout=compact&theme=radical" alt="Minhas Linguagens" height="195" />
-      </a>
-    </td>
-  </tr>
 </table>
