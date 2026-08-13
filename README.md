@@ -56,7 +56,7 @@ Sempre aprendendo, testando novas ideias e melhorando a qualidade do código a c
     title="Laragon" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://laragon.org/assets/img/laragon.png" 
+    img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"
 />
 
 <br/>
