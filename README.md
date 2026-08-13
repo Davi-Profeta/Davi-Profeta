@@ -53,10 +53,18 @@ Sempre aprendendo, testando novas ideias e melhorando a qualidade do código a c
 <img 
     align="left" 
     alt="Laragon" 
-    title="Laragon" 
+    title="MySQL" 
     width="30px" 
     style="padding-right: 10px;" 
     img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
+/>
+<img 
+    align="left" 
+    alt="Blender" 
+    title="Blender" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" 
 />
 
 <br/>
