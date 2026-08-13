@@ -10,10 +10,9 @@ Sempre aprendendo, testando novas ideias e melhorando a qualidade do código a c
 
 ### 🤖 Linguagens e Tecnologias
 
-
 <img 
     align="left" 
-    alt="HTML"
+    alt="HTML" 
     title="HTML" 
     width="30px" 
     style="padding-right: 10px;" 
@@ -22,7 +21,7 @@ Sempre aprendendo, testando novas ideias e melhorando a qualidade do código a c
 <img 
     align="left" 
     alt="CSS" 
-    title="CSS"
+    title="CSS" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
@@ -30,7 +29,7 @@ Sempre aprendendo, testando novas ideias e melhorando a qualidade do código a c
 <img 
     align="left" 
     alt="JavaScript" 
-    title="JavaScript"
+    title="JavaScript" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
@@ -38,18 +37,26 @@ Sempre aprendendo, testando novas ideias e melhorando a qualidade do código a c
 <img 
     align="left" 
     alt="Git" 
-    title="Git"
+    title="Git" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 <img 
     align="left" 
-    alt="Git" 
-    title="Git"
+    alt="Bootstrap" 
+    title="Bootstrap" 
     width="30px" 
-    style="padding-right: 10px;"
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Laragon" 
+    title="Laragon" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laragon/laragon-original.svg" 
 />
 
 <br/>
@@ -73,4 +80,3 @@ Sempre aprendendo, testando novas ideias e melhorando a qualidade do código a c
     </td>
   </tr>
 </table>
-
