@@ -16,4 +16,26 @@ Sempre aprendendo, testando novas ideias e melhorando a qualidade do código a c
   <img alt="JavaScript" title="JavaScript" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /> &nbsp;&nbsp;
   <img alt="Git" title="Git" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" /> &nbsp;&nbsp;
   <img alt="PHP" title="PHP" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" /> &nbsp;&nbsp;
-  <img alt="MySQL" title="MySQL" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.
+  <img alt="MySQL" title="MySQL" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" /> &nbsp;&nbsp;
+  <img alt="Blender" title="Blender" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" /> &nbsp;&nbsp;
+  <img alt="Unity" title="Unity" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" /> &nbsp;&nbsp;
+</p>
+
+***
+
+### 📊 Estatísticas
+
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td valign="top" style="border: none;">
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.shion.dev/api?username=Davi-Profeta&show_icons=true&theme=radical" alt="GitHub Stats" height="195" />
+      </a>
+    </td>
+    <td valign="top" style="border: none;">
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Davi-Profeta&layout=compact&theme=radical&hide=hack" alt="Minhas Linguagens" height="195" />
+      </a>
+    </td>
+  </tr>
+</table>
